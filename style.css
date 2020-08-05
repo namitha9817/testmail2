@@ -1,0 +1,58 @@
+.nav-item{
+	margin-right: 30px;
+}
+.space{
+	padding-top: 25px;
+	float: right;
+	font-size: 23px;
+	font-family: 'Baloo Bhai 2', cursive;
+	text-shadow: 5px 5px #ececec;
+	padding-right: 60px;
+}
+
+.navbar-bran{
+	color: #000000;
+	margin-right: 40px;
+	text-decoration: none;
+}
+
+.center{
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 50%;
+}
+
+form{
+	margin-top: 10%;
+	margin-left: 25%;
+	font-family: 'Baloo Bhai 2', cursive;
+
+}
+
+.new{
+	background: white;
+	width: 60%;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	-webkit-box-shadow: 7px 9px 13px -1px rgba(43,42,43,1);
+-moz-box-shadow: 7px 9px 13px -1px rgba(43,42,43,1);
+box-shadow: 7px 9px 13px -1px rgba(43,42,43,1);
+}
+
+.textt{
+	font-size: 45px;
+	padding-left: 35%;
+	padding-bottom: 30px;
+
+}
+.bttn{
+	padding-left: 45%;
+}
+
+.yo{
+	padding-left: 20px;
+	padding-right: 20px;
+}
